@@ -1,5 +1,7 @@
 # Домашнее задание к лекции «Promises, async/await»
 
+[![Build status](https://ci.appveyor.com/api/projects/status/wy6ci601wd4csvo3?svg=true)](https://ci.appveyor.com/project/darknessdizi/javascript-10-testing-async-code-task-3)
+
 ## Testing Async code (задача со звёздочкой)
 
 **Важно**: данная задача не является обязательной 
